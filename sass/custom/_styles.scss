@@ -1,0 +1,13 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+body > header {
+    background-image: image-url('header.png');
+    background-size: cover;
+    h1 {
+      text-shadow: rgba(#fff, 0.5) 0 0 0.1em, rgba(#000, 0.8) 0.05em 0.05em 0.05em;
+    }
+    h2 {
+      text-shadow: rgba(#000, 0.8) 0.05em 0.05em 0.05em;
+    }
+}
