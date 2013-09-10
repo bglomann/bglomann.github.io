@@ -16,6 +16,13 @@
 
 $title-color: #fff;
 $subtitle-color: #ddd;
+$nav-bg: #444;
+$nav-color: #ccc;
+$nav-color-hover: lighten($nav-color, 25);
+$footer-bg: #444;
+$footer-color: #aaa;
+$footer-link-color: $footer-color;
+$footer-link-color-hover: lighten($footer-color, 25);
 
 /* To use the light Solarized highlighting theme uncomment the following line */
 //$solarized: light;
