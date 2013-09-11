@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Coding Voyage]]></title>
-  <link href="http://bglomann.github.io/atom.xml" rel="self"/>
-  <link href="http://bglomann.github.io/"/>
-  <updated>2013-09-11T00:28:12-04:00</updated>
-  <id>http://bglomann.github.io/</id>
+  <link href="http://blog.glomann.com/atom.xml" rel="self"/>
+  <link href="http://blog.glomann.com/"/>
+  <updated>2013-09-11T01:02:50-04:00</updated>
+  <id>http://blog.glomann.com/</id>
   <author>
     <name><![CDATA[Bernhard Glomann]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[My first Hackathon]]></title>
-    <link href="http://bglomann.github.io/blog/2013/09/10/my-first-hackathon/"/>
+    <link href="http://blog.glomann.com/blog/2013/09/10/my-first-hackathon/"/>
     <updated>2013-09-10T23:30:00-04:00</updated>
-    <id>http://bglomann.github.io/blog/2013/09/10/my-first-hackathon</id>
+    <id>http://blog.glomann.com/blog/2013/09/10/my-first-hackathon</id>
     <content type="html"><![CDATA[<p>Recently attended <a href="http://battlehack.org/miami">PayPal Battle Hack</a> in Miami:</p>
 
-<p><img src="http://bglomann.github.io/images/battle_hack_miami.jpg" alt="Battle Hack Miami" /></p>
+<p><img src="http://blog.glomann.com/images/battle_hack_miami.jpg" alt="Battle Hack Miami" /></p>
 
 <p>Some highlights:</p>
 
