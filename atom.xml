@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Coding Voyage]]></title>
+  <link href="http://bglomann.github.io/atom.xml" rel="self"/>
+  <link href="http://bglomann.github.io/"/>
+  <updated>2013-09-11T00:21:07-04:00</updated>
+  <id>http://bglomann.github.io/</id>
+  <author>
+    <name><![CDATA[Bernhard Glomann]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My first Hackathon]]></title>
+    <link href="http://bglomann.github.io/blog/2013/09/10/my-first-hackathon/"/>
+    <updated>2013-09-10T23:30:00-04:00</updated>
+    <id>http://bglomann.github.io/blog/2013/09/10/my-first-hackathon</id>
+    <content type="html"><![CDATA[<p>Recently attended <a href="http://battlehack.org/miami">PayPal Battle Hack</a> in Miami:</p>
+
+<p><img src="http://bglomann.github.io/images/battle_hack_miami.jpg" alt="Battle Hack Miami" /></p>
+
+<p>Some highlights:</p>
+
+<ul>
+<li>Spent a weekend working on something completely different from my day job (but still within my profession)</li>
+<li>Awesome people and amazing hacks</li>
+<li>Great food</li>
+<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a> for being an early bird</li>
+<li>Didn&rsquo;t complete <a href="https://github.com/bglomann/fetch-backend">our hack</a>, but planning to keep working on it</li>
+</ul>
+
+
+<p>All in all, a great way to learn a lot in a short time. Highly recommended!</p>
+]]></content>
+  </entry>
+  
+</feed>
